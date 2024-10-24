@@ -1,4 +1,4 @@
--  Yo, I’m @Leviathan-097/Leviathan_
+-  Yo, I’m Leviathan_
 -  I’m interested in art and storytelling.
 -  I’m currently learning Python.
 -  I’m looking to collaborate on game development.
