@@ -2,6 +2,6 @@
 -  I’m interested in art and storytelling.
 -  I’m currently learning Python.
 -  I’m looking to collaborate on game development.
--  You can reach me on seroxw22@gmail.com or on my Twitter @Leviathan_097
+-  You can reach me on Discord or Twitter both linked on my account
 -  Pronouns: they/them.
 -  Fun fact: I have a high chemical tolerance, meaning I'm more resistant to the effects of caffeine, pain killers, ect.
